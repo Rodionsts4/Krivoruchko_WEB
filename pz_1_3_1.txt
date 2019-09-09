@@ -1,3 +1,4 @@
 git clone https://github.com/Rodionsts4/Krivoruchko_WEB.git
 git add nubmPIB.txt
 git commit -m "first commit"
+git add numPIB.txt
